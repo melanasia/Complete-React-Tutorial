@@ -1,16 +1,22 @@
 {
-    "blogs": [
-        {
-            "title": "My First Blog",
-            "body": "Follow my travels across South America...",
-            "author": "Jane",
-            "id": 1
-        },
-        {
-            "title": "Opening Party!",
-            "body": "The first event of the season...",
-            "author": "Samantha",
-            "id": 2
-        }
-    ]
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Follow my travels across South America...",
+      "author": "Jane",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "The first event of the season...",
+      "author": "Samantha",
+      "id": 2
+    },
+    {
+      "title": "Zzz",
+      "body": "Sleeping is my favorite activity",
+      "author": "mario",
+      "id": 3
+    }
+  ]
 }
